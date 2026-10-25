@@ -1,0 +1,9 @@
+# campaign: tiers 1 2 3 on nano (tegra210), period 200 ms; 2026-10-16 15:36:57
+2026-10-16 15:36:57 start (before QUIET): mode=MAXN idle_dis=0/8 emc_halt=0 emc_mhz=1600 gpu3d=1 fan=n/a pwm=80 rpm=0 tmax=50.0 boot=e2367fbf bg=dm
+2026-10-16 15:37:03 before tier 1: mode=MAXN idle_dis=0/8 emc_halt=0 emc_mhz=1600 gpu3d=1 fan=n/a pwm=80 rpm=0 tmax=50.0 boot=e2367fbf bg=none
+2026-10-17 16:46:56 after tier 1: mode=MAXN idle_dis=0/8 emc_halt=0 emc_mhz=1600 gpu3d=1 fan=n/a pwm=120 rpm=0 tmax=66.5 boot=e2367fbf bg=none
+2026-10-17 16:46:56 before tier 2: mode=MAXN idle_dis=0/8 emc_halt=0 emc_mhz=1600 gpu3d=1 fan=n/a pwm=120 rpm=0 tmax=67.0 boot=e2367fbf bg=none
+2026-10-17 17:20:56 after tier 2: mode=MAXN idle_dis=0/8 emc_halt=0 emc_mhz=1600 gpu3d=1 fan=n/a pwm=120 rpm=0 tmax=61.5 boot=e2367fbf bg=none
+2026-10-17 17:20:57 before tier 3: mode=MAXN idle_dis=0/8 emc_halt=0 emc_mhz=1600 gpu3d=1 fan=n/a pwm=120 rpm=0 tmax=61.5 boot=e2367fbf bg=none
+2026-10-17 21:13:03 after tier 3: mode=MAXN idle_dis=0/8 emc_halt=0 emc_mhz=204 gpu3d=1 fan=n/a pwm=80 rpm=0 tmax=58.0 boot=e2367fbf bg=none
+2026-10-17 21:13:05 end (code 0, after restarting the services): mode=MAXN idle_dis=0/8 emc_halt=0 emc_mhz=1600 gpu3d=1 fan=n/a pwm=80 rpm=0 tmax=58.5 boot=e2367fbf bg=dm

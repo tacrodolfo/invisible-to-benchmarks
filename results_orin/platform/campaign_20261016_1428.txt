@@ -1,0 +1,4 @@
+# campaign: tiers 1 2 3 on orin (tegra234), period 83.333 ms; 2026-10-16 14:28:46
+2026-10-16 14:28:46 start (before QUIET): mode=25W idle_dis=0/12 emc_halt=0 emc_mhz=2133 gpu3d=1 fan=quiet pwm=71 rpm=1440 tmax=48.9 boot=b0a2f510 bg=none
+2026-10-16 14:28:51 before tier 1: mode=25W idle_dis=0/12 emc_halt=0 emc_mhz=2133 gpu3d=1 fan=quiet pwm=71 rpm=1442 tmax=48.7 boot=b0a2f510 bg=none
+2026-10-16 14:29:22 end (code 130, after restarting the services): mode=25W idle_dis=0/12 emc_halt=0 emc_mhz=2133 gpu3d=1 fan=quiet pwm=71 rpm=1437 tmax=48.9 boot=b0a2f510 bg=none

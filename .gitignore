@@ -1,0 +1,17 @@
+build/
+state/
+data/*
+!data/README.md
+!data/*.sha256
+!data/origin.csv
+results*/**
+!results*/
+!results*/tables/
+!results*/tables/*.csv
+!results*/tables/*.png
+!results*/tables/*.txt
+!results*/platform/
+!results*/platform/*.txt
+__pycache__/
+*.pyc
+*.tgz

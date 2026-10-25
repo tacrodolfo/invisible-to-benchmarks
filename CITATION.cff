@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the paper below."
+title: "edgebench: response time of edge-AI perception under deployment conditions"
+type: software
+license: MIT
+version: 1.0.0
+authors:
+  - family-names: Rodolfo
+    given-names: Taciano Ares
+    affiliation: "CEDRA of SENAI-RS; PGMICRO, Federal University of Rio Grande do Sul"
+  - family-names: Beck Filho
+    given-names: Antônio Carlos Schneider
+    affiliation: "CEDRA of SENAI-RS; PGMICRO, Federal University of Rio Grande do Sul"
+preferred-citation:
+  type: conference-paper
+  title: "Invisible to Benchmarks: How Deployment Conditions Limit the Real-Time Capacity of Edge AI Perception"
+  authors:
+    - family-names: Rodolfo
+      given-names: Taciano Ares
+    - family-names: Beck Filho
+      given-names: Antônio Carlos Schneider
+  collection-title: "IEEE International Conference on Industrial Technology (ICIT)"
+  year: 2027
